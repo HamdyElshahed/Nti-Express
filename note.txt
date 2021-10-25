@@ -1,0 +1,5 @@
+1-npm i
+2-npm i mongoose
+3-nodemon 
+4-npm i bcrypt
+5-npm i jsonwebtoken
